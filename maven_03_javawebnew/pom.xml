@@ -41,13 +41,13 @@
     </dependency>
 
     <!--添加 maven_01_javase 的依赖-->
-    <dependency>
-      <groupId>cn.myphoenix</groupId>
-      <artifactId>maven_01_javase</artifactId>
-      <version>1.0-SNAPSHOT</version>
-      <scope>system</scope>
-      <systemPath>C:/Coding_Gallery/Intellij_IDEA_Workspace/learning_maven/maven_01_javase/target/maven_01_javase-1.0-SNAPSHOT.jar</systemPath>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>cn.myphoenix</groupId>-->
+<!--      <artifactId>maven_01_javase</artifactId>-->
+<!--      <version>1.0-SNAPSHOT</version>-->
+<!--      <scope>system</scope>-->
+<!--      <systemPath>C:/Coding_Gallery/Intellij_IDEA_Workspace/learning_maven/maven_01_javase/target/maven_01_javase-1.0-SNAPSHOT.jar</systemPath>-->
+<!--    </dependency>-->
 
   </dependencies>
 
